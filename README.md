@@ -25,7 +25,7 @@
 
 <p>
   <div id="header" align="center">
-    <a href="https://t.me/@Psowh">
+    <a href="https://t.me/Psowh">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
     </a>
   </div>
