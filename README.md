@@ -1,15 +1,7 @@
 <p>
   <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTBncm5mbDd5ZHhpbTdyMTZuM3B6ang4dXljcHZ4cW1mbTFjaGd3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lRi3x2FiotRddDOsqS/giphy.gif" style="border-radius: 15%;" alt="cat gif" width="350"
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTBncm5mbDd5ZHhpbTdyMTZuM3B6ang4dXljcHZ4cW1mbTFjaGd3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lRi3x2FiotRddDOsqS/giphy.gif" width="350"
   </div>
-</p>
-    
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <div align="center">
@@ -35,4 +27,12 @@
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
     </a>
   </div>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
