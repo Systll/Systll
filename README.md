@@ -21,12 +21,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  
-
 </div>
 
-<div id="header" align="center">
-  <a href="https://t.me/@Psowh">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
-  </a>
-</div>
+<p>
+  <div id="header" align="center">
+    <a href="https://t.me/@Psowh">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
+    </a>
+  </div>
+</p>
