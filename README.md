@@ -1,3 +1,9 @@
+<p>
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTBncm5mbDd5ZHhpbTdyMTZuM3B6ang4dXljcHZ4cW1mbTFjaGd3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lRi3x2FiotRddDOsqS/giphy.gif" width="200"
+  </div>
+</p>
+    
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
