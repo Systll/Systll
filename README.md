@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://gifs.ru/gifs/konnekt-connect-zagruzka-XarAR5?utm_source=share&utm_medium=native" width="100"/>
+  <img src="https://giphy.com/gifs/creative-coding-libcinder-100days-l2R0aUFFfV8OIo4nu?related_type=gifs" width="100"/>
 </div>
