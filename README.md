@@ -23,6 +23,13 @@
 </div>
 
 <p>
+  <div align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Systll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Systll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </div>
+</p>
+
+<p>
   <div id="header" align="center">
     <a href="https://t.me/Psowh">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
