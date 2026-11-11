@@ -3,7 +3,8 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZyMG9tODdqMGE1Y2hsZGZxczJlcjVoOXdxZW81MWdhMTA0ODY1OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GC7C2Fi902BDG/giphy.gif" width="800"
   </div>
 </p>
-
+    
+## 🛠 Стек
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
