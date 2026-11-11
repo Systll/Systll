@@ -1,31 +1,27 @@
+<h1 align="center">🪼Systll / junior coder </h1>
 <p>
   <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZyMG9tODdqMGE1Y2hsZGZxczJlcjVoOXdxZW81MWdhMTA0ODY1OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GC7C2Fi902BDG/giphy.gif" width="800"
   </div>
 </p>
     
-## 🛠 Стек
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-</div>
 
 <p>
   <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Systll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Systll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+    <img width="12" />
   </div>
 </p>
 
