@@ -4,10 +4,24 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZyMG9tODdqMGE1Y2hsZGZxczJlcjVoOXdxZW81MWdhMTA0ODY1OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GC7C2Fi902BDG/giphy.gif" width="800"
   </div>
 </p>
-    
 
+<h3 align="left">about</h3>
+<p align="left">
+  <div align="left">
+  16 y.o. Software development enthusiast focused on programming, automation, and practical problem-solving. Exploring new technologies, building personal projects, and continuously improving my skills. Interested in creating software that solves real problems.
+  </div>
+</p>
 <p>
-  <div align="center">
+  <div id="header" align="left">
+    <a href="https://t.me/Psowh">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
+    </a>
+  </div>
+</p>
+
+<h3 align="left">skills</h3>
+<p>
+  <div align="left">
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -22,16 +36,12 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img width="12" />
   </div>
 </p>
 
-<p>
-  <div id="header" align="center">
-    <a href="https://t.me/Psowh">
-      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
-    </a>
-  </div>
-</p>
+
 
 <p align="center">
   <picture>
