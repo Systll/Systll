@@ -38,6 +38,20 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+    <img width="12" />
+  </div>
+</p>
+<p>
+  <div align="left">
+    <a>
+      <b>Languages:</b> Python, C#, GO, GDScript<br>
+      <b>Tools:</b> Git, GitHub, VS Code, Godot, Unity, HTML, CSS
+    </a>
   </div>
 </p>
 
